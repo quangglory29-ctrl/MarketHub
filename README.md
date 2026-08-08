@@ -6,16 +6,22 @@ Anh/Chị vẫn có thể trải nghiệm đầy đủ các chức năng thông 
 
 👉 Demo: https://digital-market-official-13c6tsayo-quangglory29-4389s-projects.vercel.app/
 
-Em xin chân thành cảm ơn Anh/Chị đã quan tâm đến dự án của em.
-
-Hướng dẫn trải nghiệm
+## Hướng dẫn trải nghiệm
 
 Để thuận tiện trong quá trình đánh giá, Anh/Chị có thể sử dụng các tài khoản mẫu dưới đây:
 
-Tài khoản Quản trị viên (Admin)
-Tên đăng nhập: admin
-Mật khẩu: admin123
-Mật khẩu mã bảo mật cấp 2: mabaomatadmin
-Tài khoản Người bán (Seller)
-Tên đăng nhập: sellertest
-Mật khẩu: 12345678
+### Tài khoản Quản trị viên (Admin)
+
+**Tên đăng nhập:** `admin`
+
+**Mật khẩu:** `admin123`
+
+**Mật khẩu mã bảo mật cấp 2:** `mabaomatadmin`
+
+### Tài khoản Người bán (Seller)
+
+**Tên đăng nhập:** `sellertest`
+
+**Mật khẩu:** `12345678`
+
+Em xin chân thành cảm ơn Anh/Chị đã quan tâm đến dự án của em.
