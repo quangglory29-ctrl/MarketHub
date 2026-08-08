@@ -6,8 +6,6 @@ Anh/Chị vẫn có thể trải nghiệm đầy đủ các chức năng thông 
 
 👉 Demo: https://digital-market-official-13c6tsayo-quangglory29-4389s-projects.vercel.app/
 
-Nếu Anh/Chị cần xem mã nguồn để phục vụ quá trình đánh giá, em sẵn sàng chia sẻ hoặc trình bày trực tiếp khi được yêu cầu.
-
 Em xin chân thành cảm ơn Anh/Chị đã quan tâm đến dự án của em.
 
 Hướng dẫn trải nghiệm
